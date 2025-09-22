@@ -1,6 +1,5 @@
 # weewx-healthchecks
 
-This repository has a new home at, https://github.com/weewx-extensions/healthchecks
 
 This repository has a new home at, https://github.com/weewx-extensions/healthchecks
 
