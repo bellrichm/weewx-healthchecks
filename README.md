@@ -2,6 +2,8 @@
 
 This repository has a new home at, https://github.com/weewx-extensions/healthchecks
 
+This repository has a new home at, https://github.com/weewx-extensions/healthchecks
+
 A WeeWX extension that uses [Healthchecks.io](https://healthchecks.io) to monitor WeeWX.
 
 At WeeWX startup, a [start signal](https://healthchecks.io/docs/http_api/#start-uuid) is sent to Healthchecks.io.
